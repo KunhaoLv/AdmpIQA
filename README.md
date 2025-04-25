@@ -2,7 +2,7 @@
 
 ## Introduction
 In this paper, we propose a novel multimodal deep prompt learning framework for blind image quality assessment (BIQA), named AdmpIQA. Specifically, we introduce learnable prompts in both the language and visual branches of the CLIP model, enabling fine-grained adjustments to vision-language representations. Additionally, we incorporate a visual feature adaptation module to enhance the expressive capability of the visual branch, allowing it to better capture the characteristics of image distortion.
-![xx](./fig/framework.png)
+![xx](AdmpIQA/fig/framework.png)
 
 ## Train and Test
 First, download datasets.
